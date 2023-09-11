@@ -1,0 +1,33 @@
+"iPhone 14 Pro",5999.00,10000
+"Samsung Galaxy S21",1299.99,8000
+"Google Pixel 6",999.00,6500
+"Sony PlayStation 5",499.99,5000
+"LG OLED 65 TV",2499.99,4000
+"Apple MacBook Pro 16",2399.00,3500
+"Dell XPS 13",1499.00,3000
+"Microsoft Surface Book 3",1799.99,2500
+"GoPro Hero 9 Black",349.99,2000
+"Sony Alpha a7 III",1999.00,1500
+"Bose QuietComfort 35 II",299.00,1000
+"Nintendo Switch OLED",349.99,800
+"Fitbit Versa 3",229.95,500
+"Apple AirPods Pro",249.00,300
+"Samsung QLED 75 TV",3499.99,200
+"Sony WH-1000XM4",349.99,100
+"Xbox Series X",499.99,50
+"LG UltraFine 27 Monitor",499.99,30
+"Samsung Galaxy Tab S7",649.99,20
+"Canon EOS R5",3899.00,15
+"Sony XBR-65A8H OLED TV",2499.99,10
+"Apple Watch Series 7",399.00,5
+"Samsung Galaxy Buds Pro"199.99,3
+"Nintendo Switch Lite",199.99,2
+"Sony WF-1000XM4",279.99,1
+"Sony BRAVIA XR A90J",3499.99,10
+"DJI Mavic Air 2",799.00,8
+"Apple iPad Pro 12.9",1099.00,7
+"Microsoft Xbox Series S",299.99,6
+"LG CX 55 OLED TV",1699.99,5
+"Samsung Galaxy Watch 4",249.99,4
+"Google Nest Hub Max",229.00,3
+"Fitbit Charge 4",129.95,2
